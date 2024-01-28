@@ -1,0 +1,78 @@
+
+
+
+
+span {
+  font-size: 12px;
+  color: red;
+  /* display: none; */
+}
+
+label {
+  font-weight: 600;
+  font-size: larger;
+}
+
+.adminAddTrainerForm {
+  overflow-y: auto;
+  width: 50vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 1vw auto;
+  padding-bottom: 10px;
+  border: #ff922b 5px solid;
+  border-radius: 20px;
+}
+
+fieldset {
+  border: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.addTrainerFormInput {
+  background-color: #f0f0f0bc;
+  border: none;
+  padding: 10px 15px;
+  margin: 8px auto;
+  width: 80%;
+  font-size: medium;
+  border-radius: 5px;
+  border: #121212 1px solid;
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+#image {
+  border: 1px solid black;
+}
+
+.adminTrainerSpan {
+  width: 80%;
+  margin: auto;
+}
+.btnSubmitTrainers {
+  border-radius: 10px;
+  border: 3px solid #ff922b;
+  background-color: #ff4b2b;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
+  width: 60%;
+  margin: auto;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+.nevigate-to-signin-up {
+  width: 100%;
+  margin-left: 25%;
+}
