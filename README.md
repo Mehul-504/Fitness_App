@@ -42,26 +42,3 @@
 > - Password : Admin@123
  
 
-## Contributors
-```
-IIIT SriCity : UG3 - FDFED Project (Batch 21-25)
-
-FDFED Section 1 - Group 12
-
-Bucket -1 
-Omkar Kailash Khairnar (S20210010120)
-Kartik Niranjan Patel  (S20210010171)
-
-Bucket -2
-Shivang Shingh (S20210010207)
-Chirag Dhiwar  (S20210010064)
-
-Bucket -3
-Karthik Onteru (S20210010163)
-
-```
-
->## GitHub Repository 
->- [fitwell-reactjs](https://github.com/Omkar-Khairnar/FitWell-ReactJS.git)
->- https://github.com/Omkar-Khairnar/FitWell-ReactJS.git 
-
